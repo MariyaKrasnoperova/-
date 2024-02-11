@@ -5,3 +5,4 @@
 
 11/02/2023
 
+![foto](img/koshka.jpg)
